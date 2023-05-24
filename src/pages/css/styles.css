@@ -1,0 +1,18 @@
+.account {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.account .my-link {
+  text-decoration: none;
+  color: gray;
+}
+.account .my-link:hover {
+  color: #000;
+}
+.my-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
